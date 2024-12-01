@@ -18,5 +18,5 @@ function NameForm(props) {
       </label>
       <button type="submit">제출</button>
     </form>
-  );
+   );
 }
